@@ -10,4 +10,6 @@ ghcr.io/labring/fastgpt-sandbox:v4.8.3 registry.cn-hangzhou.aliyuncs.com/brokenm
 ghcr.io/labring/fastgpt:v4.8.4 registry.cn-hangzhou.aliyuncs.com/brokenman/fastgpt:v4.8.4
 mysql:8.0.36 registry.cn-hangzhou.aliyuncs.com/brokenman/mysql:8.0.36
 ghcr.io/songquanpeng/one-api:latest registry.cn-hangzhou.aliyuncs.com/brokenman/one-api:latest
-
+quay.io/coreos/etcd:v3.5.5 registry.cn-hangzhou.aliyuncs.com/brokenman/etcd:v3.5.5
+milvusdb/milvus:v2.4.3 registry.cn-hangzhou.aliyuncs.com/brokenman/milvus:v2.4.3
+registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18 registry.cn-hangzhou.aliyuncs.com/brokenman/mongo:5.0.18
