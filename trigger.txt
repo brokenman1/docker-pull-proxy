@@ -13,3 +13,4 @@ ghcr.io/songquanpeng/one-api:latest registry.cn-hangzhou.aliyuncs.com/brokenman/
 quay.io/coreos/etcd:v3.5.5 registry.cn-hangzhou.aliyuncs.com/brokenman/etcd:v3.5.5
 milvusdb/milvus:v2.4.3 registry.cn-hangzhou.aliyuncs.com/brokenman/milvus:v2.4.3
 registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18 registry.cn-hangzhou.aliyuncs.com/brokenman/mongo:5.0.18
+minio/minio:RELEASE.2023-03-20T20-16-18Z registry.cn-hangzhou.aliyuncs.com/brokenman/minio:RELEASE.2023-03-20T20-16-18Z
