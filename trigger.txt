@@ -1,1 +1,2 @@
 alpine:20240606 registry.cn-hangzhou.aliyuncs.com/brokenman/alpine:20240606
+langgenius/dify-web:0.6.11 registry.cn-hangzhou.aliyuncs.com/brokenman/dify-web:0.6.11
