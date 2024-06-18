@@ -1,2 +1,3 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/brokenman/alpine:20240606
 langgenius/dify-web:0.6.11 registry.cn-hangzhou.aliyuncs.com/brokenman/dify-web:0.6.11
+pgvector/pgvector:0.7.0-pg15 registry.cn-hangzhou.aliyuncs.com/brokenman/pgvector:0.7.0-pg15
+ghcr.io/labring/fastgpt-sandbox:v4.8.3 registry.cn-hangzhou.aliyuncs.com/brokenman/fastgpt-sandbox:v4.8.3
