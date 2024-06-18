@@ -1,3 +1,13 @@
 langgenius/dify-web:0.6.11 registry.cn-hangzhou.aliyuncs.com/brokenman/dify-web:0.6.11
+langgenius/dify-api:0.6.10 registry.cn-hangzhou.aliyuncs.com/brokenman/dify-api:0.6.10
+redis:6-alpine registry.cn-hangzhou.aliyuncs.com/brokenman/redis:6-alpine
+semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/brokenman/semitechnologies/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/brokenman/dify-sandbox:0.2.1
+ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/brokenman/squid:latest
+nginx:latest registry.cn-hangzhou.aliyuncs.com/brokenman/nginx:latest
 pgvector/pgvector:0.7.0-pg15 registry.cn-hangzhou.aliyuncs.com/brokenman/pgvector:0.7.0-pg15
-ghcr.io/labring/fastgpt-sandbox:v4.8.3 registry.cn-hangzhou.aliyuncs.com/brokenman/fastgpt-sandbox:v4.8.3
+ghcr.io/labring/fastgpt-sandbox:v4.8.3 registry.cn-hangzhou.aliyuncs.com/brokenman/fastgpt-sandbox:v4.8.4
+ghcr.io/labring/fastgpt:v4.8.4 registry.cn-hangzhou.aliyuncs.com/brokenman/fastgpt:v4.8.4
+mysql:8.0.36 registry.cn-hangzhou.aliyuncs.com/brokenman/mysql:8.0.36
+ghcr.io/songquanpeng/one-api:latest registry.cn-hangzhou.aliyuncs.com/brokenman/one-api:latest
+
