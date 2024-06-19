@@ -19,3 +19,4 @@ oceanbase/oceanbase-ce:vector registry.cn-hangzhou.aliyuncs.com/brokenman/oceanb
 eosphorosai/dbgpt-allinone registry.cn-hangzhou.aliyuncs.com/brokenman/dbgpt-allinone
 postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/brokenman/postgres:15-alpine
 semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/brokenman/weaviate:1.19.0
+getmeili/meilisearch:v1.8.0 registry.cn-hangzhou.aliyuncs.com/brokenman/meilisearch:v1.8.0
