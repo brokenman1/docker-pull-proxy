@@ -17,5 +17,5 @@ eosphorosai/dbgpt:latest registry.cn-hangzhou.aliyuncs.com/brokenman/dbgpt:lates
 mysql/mysql-server registry.cn-hangzhou.aliyuncs.com/brokenman/mysql-server
 oceanbase/oceanbase-ce:vector registry.cn-hangzhou.aliyuncs.com/brokenman/oceanbase-ce:vector
 eosphorosai/dbgpt-allinone registry.cn-hangzhou.aliyuncs.com/brokenman/dbgpt-allinone
-semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/brokenman/weaviate:1.19.0
 postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/brokenman/postgres:15-alpine
+semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/brokenman/weaviate:1.19.0
