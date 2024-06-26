@@ -8,7 +8,7 @@ pgvector/pgvector:0.7.0-pg15 registry.cn-hangzhou.aliyuncs.com/brokenman/pgvecto
 ghcr.io/labring/fastgpt-sandbox:v4.8.3 registry.cn-hangzhou.aliyuncs.com/brokenman/fastgpt-sandbox:v4.8.4
 ghcr.io/labring/fastgpt:v4.8.4 registry.cn-hangzhou.aliyuncs.com/brokenman/fastgpt:v4.8.4
 mysql:8.0.36 registry.cn-hangzhou.aliyuncs.com/brokenman/mysql:8.0.36
-ghcr.io/songquanpeng/one-api:latest registry.cn-hangzhou.aliyuncs.com/brokenman/one-api:latest
+ghcr.io/songquanpeng/one-api:latest registry.cn-hangzhou.aliyuncs.com/brokenman/one-api:v0.6.7
 quay.io/coreos/etcd:v3.5.5 registry.cn-hangzhou.aliyuncs.com/brokenman/etcd:v3.5.5
 milvusdb/milvus:v2.4.3 registry.cn-hangzhou.aliyuncs.com/brokenman/milvus:v2.4.3
 registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18 registry.cn-hangzhou.aliyuncs.com/brokenman/mongo:5.0.18
