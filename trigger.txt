@@ -21,3 +21,4 @@ postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/brokenman/postgres:15-alpin
 semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/brokenman/weaviate:1.19.0
 getmeili/meilisearch:v1.8.0 registry.cn-hangzhou.aliyuncs.com/brokenman/meilisearch:v1.8.0
 riccoxie/meilisearch-ui:latest registry.cn-hangzhou.aliyuncs.com/brokenman/meilisearch-ui:latest
+getmeili/meilisearch:v0.24.0 registry.cn-hangzhou.aliyuncs.com/brokenman/meilisearch:v0.24.0
